@@ -9,6 +9,12 @@ Download Consul in your machine.
 2. copy Ipv4 address<br>
 3. Open command prompt from your consul directory.<br>
 4. enter "consul agent -dev -bind 'ip-address'"(server will start running)
+<br>
+
+we can also open the UI of consul<br>
+localhost:8500
+
+
 
 
 
