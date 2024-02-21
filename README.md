@@ -6,8 +6,8 @@ Download Consul in your machine.
 
 <h2>How to Start consul in windows</h2>
 1. open command prompt and enter "ipconfig".<br>
-2. copy Ipv4 address
-3. Open command prompt from your consul directory.
+2. copy Ipv4 address<br>
+3. Open command prompt from your consul directory.<br>
 4. enter "consul agent -dev -bind 'ip-address'"(server will start running)
 
 
